@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "name": "Se Chip",
+  "short_name": "Se Chip",
+  "description": "Se Chip: Ingenio en cada byte, estilo en cada píxel, excelencia en cada componente.",
+  "dir": "auto",
+  "lang": "es-ES",
+  "orientation": "any",
+  "start_url": "/?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#ff6d64",
+  "theme_color": "#ff6d64",
+  "icons": [
+    {
+      "src": "icons/favicon.ico",
+      "sizes": "16x16 24x24 32x32 64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/screen-1.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-2.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-3.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-4.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-5.png",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tips",
+      "short_name": "Tips",
+      "description": "Consejos prácticos y útiles para resolver problemas...",
+      "url": "/search/label/Tips?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Opinión",
+      "short_name": "Opinión",
+      "description": "Análisis subjetivo y reflexiones sobre temas relevantes del mundo.",
+      "url": "/search/label/Opinión?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
