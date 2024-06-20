@@ -65,39 +65,38 @@
     {
       "src": "screenshots/screen-1.png",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "540x720",
+      "form_factor": "narrow"
     },
     {
       "src": "screenshots/screen-2.png",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "540x720",
+      "form_factor": "narrow"
     },
     {
       "src": "screenshots/screen-3.png",
       "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "screenshots/screen-4.png",
-      "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "540x720",
+      "form_factor": "narrow"
     },
     {
       "src": "screenshots/screen-5.png",
       "type": "image/png",
-      "sizes": "540x720"
+      "sizes": "540x720",
+      "form_factor": "narrow"
     },
     {
       "src": "screenshots/screen-6.png",
       "type": "image/png",
       "sizes": "720x540",
-      "platform": "windows"
+      "form_factor": "wide"
     },
     {
       "src": "screenshots/screen-7.png",
       "type": "image/png",
       "sizes": "720x540",
-      "platform": "windows"
+      "form_factor": "wide"
     }
   ],
   "shortcuts": [
