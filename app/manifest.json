@@ -10,8 +10,8 @@
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#ff6d64",
-  "theme_color": "#ff6d64",
+  "background_color": "#fabe08",
+  "theme_color": "#fabe08",
   "icons": [
     {
       "src": "icons/favicon.ico",
@@ -86,6 +86,18 @@
       "src": "screenshots/screen-5.png",
       "type": "image/png",
       "sizes": "540x720"
+    },
+    {
+      "src": "screenshots/screen-6.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "platform": "windows"
+    },
+    {
+      "src": "screenshots/screen-7.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "platform": "windows"
     }
   ],
   "shortcuts": [
